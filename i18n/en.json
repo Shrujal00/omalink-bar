@@ -1,0 +1,11 @@
+{
+  "bar.notRunning": "Omalink isn't running. Click to open it.",
+  "bar.noPhone": "No phone linked. Click to set one up.",
+  "bar.phone": "Phone",
+  "bar.disconnected": "%1 is not connected",
+  "bar.connected": "%1 connected",
+  "bar.connectedBattery": "%1 connected  ·  %2%",
+  "bar.incoming": "Incoming call on %1",
+  "bar.onCall": "On a call on %1",
+  "bar.unread": { "one": "%1 unread text", "other": "%1 unread texts" }
+}

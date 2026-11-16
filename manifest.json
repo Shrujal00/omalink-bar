@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "omalink.bar",
+  "name": "Omalink",
+  "version": "0.1.0",
+  "author": "Shrujal Ganatra",
+  "license": "MIT",
+  "description": "Your phone in the Omarchy bar: connection, battery, unread texts and calls at a glance. Click to open Omalink.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Omalink",
+    "description": "Phone connection, battery and unread texts. Click to open Omalink.",
+    "category": "Status",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
